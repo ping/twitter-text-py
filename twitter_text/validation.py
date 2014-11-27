@@ -11,7 +11,7 @@ MAX_LENGTH = 140
 DEFAULT_TCO_URL_LENGTHS = {
   'short_url_length': 22,
   'short_url_length_https': 23,
-  'characters_reserved_per_media': 22,
+  'characters_reserved_per_media': 23,
 }
 
 class Validation(object):
